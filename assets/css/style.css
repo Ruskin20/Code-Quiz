@@ -11,12 +11,12 @@ header {
 }
 
 h3 {
-    color: white;
+    color: black;
     font-size: 25px;
 }
 
 body {
-    background: url(/assets/images/learn-coding-online-for-free.png);
+    background-color: bisque;
     margin: 0;
     padding: 0;
     justify-content: flex-start;
@@ -24,7 +24,7 @@ body {
 
 .timer {
     font-size: 1.0;
-    color: white;
+    color: black;
     display: inline;
     text-align: right;
     padding-right: 10px;
@@ -41,14 +41,14 @@ body {
 }
 
 h1 {
-    color: white;
-    background-color: blueviolet;
+    color: black;
+
     font-size: 400%
 }
 
 p {
-    color: white;
-    background-color: black;
+    color: black;
+
     font-size: 250%
 }
 
@@ -105,7 +105,7 @@ p {
 }
 
 .btn:active {
-    background-color: white;
+    background-color: burlywood;
 
 }
 
