@@ -16,7 +16,7 @@ h3 {
 }
 
 body {
-    background: url(/assets/images/Coding-Becomes-Criminal.webp);
+    background: url(./assets/images/Coding-Becomes-Criminal.webp);
     margin: 0;
     padding: 0;
     justify-content: flex-start;
