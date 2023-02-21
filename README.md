@@ -18,8 +18,8 @@ After all questions are answered or the timer reaches 0, then the game is over. 
 
 
 ## Visuals
-![This is an image](./Assets/images/Screenshot%20(12).png)
-![This is an image](./Assets/images/Screenshot%20(13).png)
+![This is an image](./assets/images/Screenshot%20(12).png)
+![This is an image](./assets/images/Screenshot%20(13).png)
 
 
 ## Link 
