@@ -1,6 +1,7 @@
 # Code Quiz
 ## Description
 
+This timed coding quiz will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript.
 
 ## Table of contents
 
@@ -10,7 +11,6 @@
 * [License](#License)
 
 ## Usage
-This timed coding quiz will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript.
 
 When the users click the start button, they are presented with a question and the timer starts ticking. When the question is answered, the user will be presented with a text letting them now if they chose the correct answer. If they answer incorrectly, time will be subtracted from the clock and points will be deducted from score. Every time a question is answered, the user will be presented with a different question automatically.
 
